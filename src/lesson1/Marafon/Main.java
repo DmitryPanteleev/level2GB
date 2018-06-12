@@ -1,5 +1,8 @@
 package lesson1.Marafon;
 
+import lesson1.Marafon.Course;
+import lesson1.Marafon.Team;
+
 public class Main {
     public static void main(String[] args) {
 

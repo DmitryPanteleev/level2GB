@@ -1,7 +1,7 @@
 package lesson1.CounterChar;
 
 
-public class counterChar {
+public class CounterChar {
     public static void main(String[] args) {
 //        String str1 = "rp  cvpilk jgqdsiavlwewjsadtijrtezjhvel pfwuu tybrrevnnnpxj";
 //        String str2 = "bnl izicllxvhazpvyw wujlqebpnauvpni n uyrou uovx  miwup";
